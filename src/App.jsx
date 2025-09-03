@@ -123,6 +123,7 @@ export default function ModernGeneratorUI() {
         <div className="text-center mb-8">
           <h1 className="text-4xl font-bold text-slate-800 mb-2">Repo Readme Generator</h1>
           <p className="text-slate-600">Enter github username and repo-name</p>
+          <p className="text-slate-600">Example: https://github.com/USER-NAME/REPO-NAME</p>
         </div>
 
         <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8 mb-6">
